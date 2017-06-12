@@ -11,5 +11,7 @@ public class HelloWorld {
 		this.name = name;
 	}
 	
-	
+	public void test(){
+		System.out.println("");
+	}
 }
