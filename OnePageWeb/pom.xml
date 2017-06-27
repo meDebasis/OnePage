@@ -3,6 +3,11 @@
   <groupId>OnePageWeb</groupId>
   <artifactId>OnePageWeb</artifactId>
   <version>0.0.2-SNAPSHOT</version>
+  <properties>
+        <project.java.version>1.8</project.java.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    </properties>
   <packaging>war</packaging>
   <build>
     <sourceDirectory>src</sourceDirectory>
