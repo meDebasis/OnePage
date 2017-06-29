@@ -2,6 +2,7 @@
 public class HelloWorld {
 
 	public String country = "";
+	public String country1 = ""
 	public String getCountry() {
 		return country;
 	}
